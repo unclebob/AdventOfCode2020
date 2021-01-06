@@ -1,0 +1,10 @@
+Recordings
+target
+frames
+*.cmproj
+*.iml
+.DS_Store
+*.mp4
+.idea
+
+
